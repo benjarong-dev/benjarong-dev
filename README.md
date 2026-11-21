@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Benjarong Nuankeaw
 
 **Entry-Level Systems, Network & Data Engineer**  
