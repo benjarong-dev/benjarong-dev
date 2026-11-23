@@ -24,10 +24,10 @@ Entry-level IT & Data practitioner combining hands-on Linux systems administrati
 ---
 
 ## Selected Projects
-
-- **[youtube-whisper-pipeline](https://github.com/benjarong-dev/youtube-whisper-pipeline)** — Automated speech-to-text data pipeline using OpenAI Whisper and Python for multilingual audio transcription and text extraction.
-- **[azure-iot-traffic-simulator](https://github.com/benjarong-dev/azure-iot-traffic-simulator)** — Python-based IoT telemetry simulator built for Azure IoT Hub to model real-time traffic and environmental metrics.
-- **[sql-assessment-solutions](https://github.com/benjarong-dev/sql-assessment-solutions)** — Structured SQL query solutions covering joins, subqueries, aggregations, and Common Table Expressions (CTEs).
+* **[enterprise-vlan-network-lab](https://github.com/benjarong-dev/enterprise-vlan-network-lab)** — Enterprise 802.1Q VLAN segmentation, Router-on-a-Stick topology, Omada SDN architecture, and stateful Linux firewall (`nftables`) rulesets.
+* **[security-log-sql-analytics](https://github.com/benjarong-dev/security-log-sql-analytics)** — PostgreSQL 16 security telemetry analytics featuring rolling-window SSH brute-force detection, lateral scan hunting, Z-score egress baselines, and B-tree/partial index tuning.
+* **[azure-iot-traffic-simulator](https://github.com/benjarong-dev/azure-iot-traffic-simulator)** — Modular Python IoT edge simulator modeling diurnal arterial congestion and stop-and-go PM2.5 emissions for Azure IoT Hub over MQTT/TLS.
+* **[youtube-whisper-pipeline](https://github.com/benjarong-dev/youtube-whisper-pipeline)** — Automated speech-to-text data pipeline using OpenAI Whisper and Python for multilingual audio transcription and text extraction.
 
 ---
 
