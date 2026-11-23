@@ -25,9 +25,10 @@ Entry-level IT & Data practitioner combining hands-on Linux systems administrati
 
 ## Selected Projects
 * **[enterprise-vlan-network-lab](https://github.com/benjarong-dev/enterprise-vlan-network-lab)** — Enterprise 802.1Q VLAN segmentation, Router-on-a-Stick topology, Omada SDN architecture, and stateful Linux firewall (`nftables`) rulesets.
-* **[security-log-sql-analytics](https://github.com/benjarong-dev/security-log-sql-analytics)** — PostgreSQL 16 security telemetry analytics featuring rolling-window SSH brute-force detection, lateral scan hunting, Z-score egress baselines, and B-tree/partial index tuning.
+* **[security-log-sql-analytics](https://github.com/benjarong-dev/security-log-sql-analytics)** — PostgreSQL 16 security telemetry analytics featuring rolling-window brute-force detection, lateral scan hunting, Z-score baselines, and index tuning (46.7x speedup).
 * **[azure-iot-traffic-simulator](https://github.com/benjarong-dev/azure-iot-traffic-simulator)** — Modular Python IoT edge simulator modeling diurnal arterial congestion and stop-and-go PM2.5 emissions for Azure IoT Hub over MQTT/TLS.
-* **[youtube-whisper-pipeline](https://github.com/benjarong-dev/youtube-whisper-pipeline)** — Automated speech-to-text data pipeline using OpenAI Whisper and Python for multilingual audio transcription and text extraction.
+* **[youtube-whisper-pipeline](https://github.com/benjarong-dev/youtube-whisper-pipeline)** — Modular Python speech-to-text ETL pipeline extracting 16 kHz audio via `yt-dlp`, transcribing with OpenAI Whisper, and indexing into SQLite FTS5.
+* **[sovereign-president-simulator](https://github.com/benjarong-dev/sovereign-president-simulator)** — Interactive 3D civic & fiscal policy sandbox built with native ES Modules, Three.js WebGL, and 2D isometric canvas fallback.
 
 ---
 
