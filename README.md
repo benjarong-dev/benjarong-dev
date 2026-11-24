@@ -29,6 +29,7 @@ Entry-level IT & Data practitioner combining hands-on Linux systems administrati
 * **[azure-iot-traffic-simulator](https://github.com/benjarong-dev/azure-iot-traffic-simulator)** — Modular Python IoT edge simulator modeling diurnal arterial congestion and stop-and-go PM2.5 emissions for Azure IoT Hub over MQTT/TLS.
 * **[youtube-whisper-pipeline](https://github.com/benjarong-dev/youtube-whisper-pipeline)** — Modular Python speech-to-text ETL pipeline extracting 16 kHz audio via `yt-dlp`, transcribing with OpenAI Whisper, and indexing into SQLite FTS5.
 * **[sovereign-president-simulator](https://github.com/benjarong-dev/sovereign-president-simulator)** — Interactive 3D civic & fiscal policy sandbox built with native ES Modules, Three.js WebGL, and 2D isometric canvas fallback.
+* **[petropulse-oil-shock-bcp-simulator](https://github.com/benjarong-dev/petropulse-oil-shock-bcp-simulator)** — Econometric time-series lag & OLS Granger causality model (`EIA` vs. `DOEB/EPPO`, 10-day lag `r = 0.77`, `F = 13.78`) with a [Live Bio-BCP Simulator](https://benjarong-dev.github.io/petropulse-oil-shock-bcp-simulator/) (*OIL SHOCK Hack! 2026*).
 
 ---
 
