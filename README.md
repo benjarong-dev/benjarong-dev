@@ -27,6 +27,8 @@ Entry-level IT & Data practitioner combining hands-on Linux systems administrati
 * **[secure-dns-quad9-dot-lab](https://github.com/benjarong-dev/secure-dns-quad9-dot-lab)** — Enterprise DNS-over-TLS (`TCP/853`, `TLSv1.3`) security gateway integrating Quad9 threat-blocking, Unbound `DNSSEC` caching, and `nftables` port-53 DNAT interception.
 * **[noc-network-sla-monitor](https://github.com/benjarong-dev/noc-network-sla-monitor)** — Zero-dependency Python NOC CLI performing live `ICMP`, `TCP`, and `TLSv1.3` certificate probes with parent-child alert storm suppression and SQLite `MTTA`/`MTTR` tracking.
 * **[nodejs-syslog-stream-collector](https://github.com/benjarong-dev/nodejs-syslog-stream-collector)** — Dependency-free Node.js (`ES Modules`) `RFC 3164`/`5424` UDP Syslog collector featuring bitwise `<PRI>` decoding, sliding-window burst correlation, `NDJSON` archiving, and live `SSE` streaming.
+* **[php-pdpa-consent-ledger-api](https://github.com/benjarong-dev/php-pdpa-consent-ledger-api)** — Zero-dependency Strict PHP 8.3 REST API implementing Thailand PDPA consent management, `HMAC-SHA256` PII pseudonymization, tamper-evident `SHA-256` hash-chained SQLite `WAL` logs, and 30-day `DSAR` SLA tracking.
+
 
 ### Data Analytics, Econometrics & ETL Pipelines
 * **[b2b-engineering-sales-inventory-analytics](https://github.com/benjarong-dev/b2b-engineering-sales-inventory-analytics)** — B2B engineering project bidding funnel, order backlog, gross margin SQL analytics, and VMI power-plant spare parts `ABC`/`ROP` optimization with a [Live Executive BI Dashboard](https://benjarong-dev.github.io/b2b-engineering-sales-inventory-analytics/).
